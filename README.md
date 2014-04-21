@@ -1,4 +1,4 @@
-Visualizing Path Finding with D3.js
+HTML5 Native Drag and Drop
 ===============
 
 To get started pull the repository then execute the following commands from within the root of the repo:<br />
