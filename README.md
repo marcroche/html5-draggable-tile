@@ -10,14 +10,6 @@ $ bower install
 
 $ grunt build
 
-$ grunt tests
-
 $ node server.js
 
 Navigate to http://localhost:3000/index.html
-
-###To run the tests follow the same steps then:
-
-$ node server-tests.js
-
-Navigate to http://localhost:3100/SpecRunner.html
