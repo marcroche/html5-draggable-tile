@@ -1,0 +1,11 @@
+{
+    "name" : "html5-drag-and-drop",
+    "version" : "0.1.0",
+    "authors" : [
+        "Marc Roche <me@marcroche.com>"
+    ],
+    "dependencies" : {
+        "jquery" : "1.11.0",
+        "jasmine" : "2.0.0"
+    }
+}
